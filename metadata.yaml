@@ -1,0 +1,24 @@
+_repo: Yorkshire-Vales-and-Wolds_55246
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+description: ''
+gutenberg_issued: '2017-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Yorkshire Vales and Wolds
+url: http://www.gutenberg.org/ebooks/55246
